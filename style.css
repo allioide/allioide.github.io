@@ -1,0 +1,15 @@
+.center{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p-content{
+    font-size: 1.6rem;
+    font-weight: 100;
+}
+
+.img-display{
+    margin : 0.7em;
+}
